@@ -47,7 +47,7 @@ This repository contains academic research publications with complete code imple
 ### 1. Data-Efficient Wheat Disease Detection Using Shifted Window Transformer (2025)
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109/TCE.2025.3582267-blue)](https://doi.org/10.1109/TCE.2025.3582267)
-[![Accuracy](https://img.shields.io/badge/Accuracy-99.3%25-brightgreen)](./Journal-Papers/Paper-3-Wheat-Disease-Detection/)
+[![Accuracy](https://img.shields.io/badge/Accuracy-99.3%25-brightgreen)](./Journal%20Articles/Paper-3-Wheat-Disease-Detection/)
 
 **Journal:** IEEE Transactions on Consumer Electronics
 **Year:** 2025 | **Volume:** 71, Issue 3 | **Pages:** 9006-9020
@@ -60,14 +60,14 @@ This repository contains academic research publications with complete code imple
 
 **Technologies:** PyTorch, Swin Transformer, Computer Vision, Grad-CAM
 
-📁 [**View Full Details →**](./Journal-Papers/Paper-3-Wheat-Disease-Detection/)
+📁 [**View Full Details →**](./Journal%20Articles/Paper-3-Wheat-Disease-Detection/)
 
 ---
 
 ### 2. Explainable Phishing Website Detection for Secure Cyber Infrastructure (2025)
 
 [![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--025--27984--w-blue)](https://doi.org/10.1038/s41598-025-27984-w)
-[![Accuracy](https://img.shields.io/badge/Accuracy-97%25-brightgreen)](./Journal-Papers/Paper-4-Phishing-Website-Detection/)
+[![Accuracy](https://img.shields.io/badge/Accuracy-97%25-brightgreen)](./Journal%20Articles/Paper-4-Phishing-Website-Detection/)
 
 **Journal:** Scientific Reports (Nature Portfolio)
 **Year:** 2025 | **Volume:** 15 | **Article:** 41751
@@ -80,7 +80,7 @@ This repository contains academic research publications with complete code imple
 
 **Technologies:** Scikit-learn, SHAP, Random Forest, Explainable AI
 
-📁 [**View Full Details →**](./Journal-Papers/Paper-4-Phishing-Website-Detection/)
+📁 [**View Full Details →**](./Journal%20Articles/Paper-4-Phishing-Website-Detection/)
 
 ---
 
@@ -99,7 +99,7 @@ This repository contains academic research publications with complete code imple
 
 **Technologies:** Python, NLP, Urdu Text Processing, Statistical Analysis
 
-📁 [**View Full Details →**](./Journal-Papers/Paper-2-UPD-Urdu-Plagiarism-Detection/)
+📁 [**View Full Details →**](./Journal%20Articles/Paper-2-UPD-Urdu-Plagiarism-Detection/)
 
 ---
 
@@ -118,7 +118,7 @@ This repository contains academic research publications with complete code imple
 
 **Technologies:** Software Engineering, Quality Management, Process Models
 
-📁 [**View Full Details →**](./Journal-Papers/Paper-1-Software-Quality-Process-Models/)
+📁 [**View Full Details →**](./Journal%20Articles/Paper-1-Software-Quality-Process-Models/)
 
 ---
 
@@ -176,7 +176,7 @@ This repository contains academic research publications with complete code imple
 ```
 Publications/
 │
-├── Journal-Papers/
+├── Journal Articles/
 │   ├── Paper-1-Software-Quality-Process-Models/
 │   │   ├── README.md
 │   │   ├── paper.pdf
@@ -233,7 +233,7 @@ cd Publications
 ### Install Dependencies (Example for Wheat Disease Detection)
 
 ```bash
-cd Journal-Papers/Paper-3-Wheat-Disease-Detection/code
+cd "Journal Articles/Paper-3-Wheat-Disease-Detection/code"
 pip install -r requirements.txt
 ```
 
